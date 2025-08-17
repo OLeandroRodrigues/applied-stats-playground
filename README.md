@@ -26,18 +26,15 @@ Depending on the experiment, I may use **C**, **R**, or **Python** — whichever
 - Visualization techniques
 
 ## 📁 Repository Structure
+```text
 applied-stats-playground/
 ├── datasets/ # Real datasets used in experiments 
-
 ├── c-experiments/ # Statistical methods implemented in C 
-
 ├── r-experiments/ # Statistical analysis and visualization in R 
-
 ├── python-experiments/ # Data analysis, models, and simulations in Python 
-
 ├── notebooks/ # Jupyter or RMarkdown notebooks for experiments 
-
 └── docs/ # Notes, reports, and explanations
+```
 
 ## 📘 Resources I'm Using
 
