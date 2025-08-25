@@ -2,7 +2,7 @@ invisible(Sys.setlocale("LC_CTYPE", "pt_BR.UTF-8"))
 invisible(Sys.setlocale("LC_ALL", "pt_BR.UTF-8"))
 
 options(warn=-1)
-suppressMessages(library(conf, warn.conflicts=FALSE))
+#suppressMessages(library(conf, warn.conflicts=FALSE))
 suppressMessages(library(confintr, warn.conflicts=FALSE))
 suppressMessages(library(DescTools, warn.conflicts=FALSE))
 suppressMessages(library(EnvStats, warn.conflicts=FALSE))
