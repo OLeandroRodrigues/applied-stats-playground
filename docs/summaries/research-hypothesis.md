@@ -6,6 +6,6 @@
 
 Examples of research hypotheses:
 
-\( \mathrm{H}_{\mathit{a}} \) : Exposure to cigarettes influences the development of lung cancer among adult Brazilian men.
-\( \mathrm{H}_{\mathit{b}} \) : We hypothesize an association between ultra-processed food consumption and obesity among Brazilian females under 16.
-\( \mathrm{H}_{\mathit{c}} \) : We hypothesize that the indiscriminate purchase of firearms by Brazilian adults contributes to an increase in Brazil's homicide rate.
+**Hₐ** : Exposure to cigarettes influences the development of lung cancer among adult Brazilian men.
+**Hᵦ** : We hypothesize an association between ultra-processed food consumption and obesity among Brazilian females under 16.
+**H𝑐** : We hypothesize that the indiscriminate purchase of firearms by Brazilian adults contributes to an increase in Brazil's homicide rate.

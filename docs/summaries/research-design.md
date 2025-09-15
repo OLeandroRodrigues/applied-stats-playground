@@ -12,7 +12,7 @@
 
 Example of research design correlational:
 
-\( \mathrm{H}_{\mathit{1}} \) : We hypothesize an association between ultra-processed food consumption and obesity among Brazilian females under 16.
+**H₁** : We hypothesize an association between ultra-processed food consumption and obesity among Brazilian females under 16.
 
 A group of seven young students was assessed using two questionnaires—one regarding dietary habits and the other regarding BMI (Body Mass Index). The objective is to investigate whether a correlation exists between these two variables.
 
@@ -41,7 +41,7 @@ $$
 
 Example of research design experimental:
 
-\( \mathrm{H}_{\mathit{1}} \) : We hypothesize an association between ultra-processed food consumption and obesity among Brazilian females under 16.
+**H₁** : We hypothesize an association between ultra-processed food consumption and obesity among Brazilian females under 16.
 
 Two groups of girls aged between 12 and 16 years participated in a study. The first group was exposed to an ultra-processed diet for one month, while the second group followed a processed diet for the same period. The study aims to identify whether there is a relationship between BMI and type of diet in this study population.
 
