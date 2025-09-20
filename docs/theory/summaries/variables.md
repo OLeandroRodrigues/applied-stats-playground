@@ -26,9 +26,10 @@ In statistics, variables are generally classified into **qualitative** and **qua
 
 - Example: exam score (dependent on study hours), clinical improvement (dependent on drug dosage), plant growth (dependent on temperature).
 
-📌 In short:
+📌**In short**:
 
 **Independent variable** → “the cause”
+
 **Dependent variable** → “the effect”
 
 **Confounding Variable**: a confounding variable is an extra variable that **is not the main focus of the study** but influences both the independent variable and the dependent variable
