@@ -3,8 +3,9 @@
 Welcome to the project’s documentation folder. Here you will find:
 
 ## 📌 Theory
-- [Research Design](summaries/research-design.md)
-- [Research Hypothesis](summaries/research-hypothesis.md)
+- [Research Design](/docs/theory/summaries/research-design.md)
+- [Research Hypothesis](/docs/theory/summaries/research-hypothesis.md)
+- [Variables](/docs/theory/summaries/variables.md)
 
 📄 Purpose of This Documentation
 
